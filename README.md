@@ -1,4 +1,8 @@
-Introduction
+Check out Backend integration of this project here: https://bd2-listing-page.vercel.app/
+
+Next Step: Add this Link in dialog Server url box on Vercel: https://backend-flip-deal-product-listing-page.vercel.app/
+
+Introduction:
 
 FlipDeal is an eCommerce company that has expanded its product range from fitness to now selling various kinds of phones.
 
