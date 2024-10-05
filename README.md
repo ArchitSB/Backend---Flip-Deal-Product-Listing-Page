@@ -1,7 +1,26 @@
-# Simple express demo
+Introduction
 
-> Express: fast, unopinionated, minimalist web framework for Node.js
+FlipDeal is an eCommerce company that has expanded its product range from fitness to now selling various kinds of phones.
 
-This project shows a simple express server serving a single HTML page and using `express.static` to serve static files.
+Copy/Paste the given array of products from the below link ( Feel free to modify the values of the products )
 
-Check out the [express documentation](https://expressjs.com/) for more information.
+https://gist.github.com/imrhlrvndrn/21b7e1996abf7226c8beceb86a76c7b8
+
+What are the various user actions?
+
+Select the following sorting options and see the products getting sorted:
+
+Popularity
+Price hight-to-low
+Price low-to-high
+
+Select any filter based on the:
+
+RAM
+ROM
+OS
+Brand
+Price
+
+The products are listed based on the filters applied.
+
